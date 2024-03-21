@@ -18,79 +18,79 @@ cmd({
 
         async(Void,citel, text) => {
 
-citel.reply("```Injecting malware```")
+citel.reply("```جاري التهكير👽💗```")
 
 await sleep(1000)
 
-citel.reply("```hacking into device \n 0%```")
+citel.reply("```جاري تحميل بيانات الجهاز \n 0%```")
 
 await sleep(1000)
 
-citel.reply("```transfering photos \n █ 10%```")
+citel.reply("```جاري سحب صور الضحيه😁😶‍🌫️ \n █ 10%```")
 
 await sleep(1000)
 
-citel.reply("```transfer successful \n █ █ 20%```")
+citel.reply("```جاري تنظيم الداتا \n █ █ 20%```")
 
 await sleep(1000)
 
-citel.reply("```transfering videos \n █ █ █ 30%```")
+citel.reply("```جاري سحب فيديوهات 👿\n █ █ █ 30%```")
 
 await sleep(1000)
 
-citel.reply("```transfer successful \n █ █ █ █ 40%```")
+citel.reply("```تم السحب جاري الاستكمال🦠🔥 \n █ █ █ █ 40%```")
 
 await sleep(1000)
 
-citel.reply("```transfering audio \n █ █ █ █ █ 50%```")
+citel.reply("```جاري سحب الموسيقي👿🤸\n █ █ █ █ █ 50%```")
 
 await sleep(1000)
 
-citel.reply("```transfer successful \n █ █ █ █ █ █ 60%```")
+citel.reply("```تم السحب جاري الاستكمال🤭🔥 \n █ █ █ █ █ █ 60%```")
 
 await sleep(1000)
 
-citel.reply("```transfering hidden files \n █ █ █ █ █ █ █ 70%```")
+citel.reply("```جاري قراءه الملفات المخفيه \n █ █ █ █ █ █ █ 70%```")
 
 await sleep(1000)
 
-citel.reply("```transfer successful \n █ █ █ █ █ █ █ █ 80%```")
+citel.reply("```تم سحب الملفات المخفيه 🤸🔥 \n █ █ █ █ █ █ █ █ 80%```")
 
 await sleep(1000)
 
-citel.reply("```transfering whatsapp chat \n █ █ █ █ █ █ █ █ █ 90%```")
+citel.reply("```جاري سحب شاتات الواتساب \n █ █ █ █ █ █ █ █ █ 90%```")
 
 await sleep(1000)
 
-citel.reply("```transfer successful \n █ █ █ █ █ █ █ █ █ █ 100%```")
+citel.reply("```تم السحب بنجاح \n █ █ █ █ █ █ █ █ █ █ 100%```")
 
 await sleep(1000)
 
-citel.reply("```System hyjacking on process.. \n Conecting to Server ```")
+citel.reply("```النظام يقوم بالانصال بالسيرفرs.. \n جاري الاتصال ```")
 
 await sleep(1000)
 
-citel.reply("```Divice successfully connected... \n Riciving data...```")
+citel.reply("```تم الاتصال بنجاح😁... \n جاري تنظيم الداتا...```")
 
 await sleep(1000)
 
-citel.reply("```Data hyjacked from divice 100% completed \n killing all evidence killing all malwares...```")
+citel.reply("``تم الاختراق بنجاح👿🤸 \n جهز طيزك لعمك وزيرى هينيكك🤭...```")
 
 await sleep(1000)
 
-citel.reply("``` HACKING COMPLETED ```")
+citel.reply("``` تمت المهمه بنجاح ✅ ```")
 
 await sleep(1000)
 
-citel.reply("``` SENDING PHONE DOCUMENTS...```")
+citel.reply("``` صلي عالنبي ونت معدي💗...```")
 
 await sleep(1000)
 
-citel.reply("``` SUCCESSFULLY SENT DATA AND Connection disconnected```")
+citel.reply("``` استغفر ربك بردو💗```")
 
 await sleep(1000)
 
-            return citel.reply('*ALL FILES TRANSFERRED*');
+            return citel.reply('*تم سحب جميع ملفات جهاز الضحيه بنجاح✅*');
 
         }
 
